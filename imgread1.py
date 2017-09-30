@@ -35,5 +35,5 @@ elif (sys.argv[1] == -l and len(sys.argv) == 3):
 
            break
 
-    cv2.destroyWindow("preview")
+    cv2.destroyWindow("Camer Feed")
 
